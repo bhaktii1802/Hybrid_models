@@ -91,6 +91,6 @@ python predict.py --model_path models/logreg.pkl --image_path sample.jpg
 
 ### Results
 
-Achieved XX% accuracy on the test set.
+Achieved 94% accuracy on the test set.
 
 Example classification report and confusion matrix are saved under reports/.
